@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[All the Gear and No Idea]]></title>
         <description><![CDATA[All the Gear and No Idea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/all-the-gear-and-no-idea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 19:30:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 20:10:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/all-the-gear-and-no-idea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34fa909b-0863-4d49-b60a-4e6dd9e391d6.jpg">]]></description>
-            <link>undefined55810131-2ae9-4076-8218-71a521aff792/index.html</link>
+            <link>https://thegrid.ai/all-the-gear-and-no-idea/55810131-2ae9-4076-8218-71a521aff792/index.html</link>
             <guid isPermaLink="false">55810131-2ae9-4076-8218-71a521aff792</guid>
-            <pubDate>Tue, 26 Apr 2016 19:30:04 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 20:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
